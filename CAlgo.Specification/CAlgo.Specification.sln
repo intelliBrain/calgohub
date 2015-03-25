@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAlgo.Specification", "CAlgo.Specification.csproj", "{6BAA45E0-5A83-4B4B-8F38-30D481FF3010}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{F4A732B6-3F78-4C09-AF88-D082068699AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAlgoHub.Specification.Tests", "..\Tests\CAlgoHub.Specification.Tests\CAlgoHub.Specification.Tests.csproj", "{67B1DE99-FD69-4323-8499-0F0D0496732F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BAA45E0-5A83-4B4B-8F38-30D481FF3010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAA45E0-5A83-4B4B-8F38-30D481FF3010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAA45E0-5A83-4B4B-8F38-30D481FF3010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAA45E0-5A83-4B4B-8F38-30D481FF3010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67B1DE99-FD69-4323-8499-0F0D0496732F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B1DE99-FD69-4323-8499-0F0D0496732F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B1DE99-FD69-4323-8499-0F0D0496732F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B1DE99-FD69-4323-8499-0F0D0496732F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{67B1DE99-FD69-4323-8499-0F0D0496732F} = {F4A732B6-3F78-4C09-AF88-D082068699AC}
+	EndGlobalSection
+EndGlobal

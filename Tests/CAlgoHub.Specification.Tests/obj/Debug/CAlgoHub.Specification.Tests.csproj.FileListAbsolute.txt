@@ -1,0 +1,7 @@
+C:\Users\akuchuk\Documents\calgohub\Tests\CAlgoHub.Specification.Tests\obj\Debug\CAlgoHub.Specification.Tests.csprojResolveAssemblyReference.cache
+C:\Users\akuchuk\Documents\calgohub\Tests\CAlgoHub.Specification.Tests\bin\Debug\CAlgoHub.Specification.Tests.dll
+C:\Users\akuchuk\Documents\calgohub\Tests\CAlgoHub.Specification.Tests\bin\Debug\CAlgoHub.Specification.Tests.pdb
+C:\Users\akuchuk\Documents\calgohub\Tests\CAlgoHub.Specification.Tests\bin\Debug\CAlgo.Specification.dll
+C:\Users\akuchuk\Documents\calgohub\Tests\CAlgoHub.Specification.Tests\bin\Debug\CAlgo.Specification.pdb
+C:\Users\akuchuk\Documents\calgohub\Tests\CAlgoHub.Specification.Tests\obj\Debug\CAlgoHub.Specification.Tests.dll
+C:\Users\akuchuk\Documents\calgohub\Tests\CAlgoHub.Specification.Tests\obj\Debug\CAlgoHub.Specification.Tests.pdb

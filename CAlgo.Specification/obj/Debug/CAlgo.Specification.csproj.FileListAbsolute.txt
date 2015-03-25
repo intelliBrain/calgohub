@@ -1,0 +1,5 @@
+C:\Users\akuchuk\Documents\calgohub\CAlgo.Specification\bin\Debug\CAlgo.Specification.dll
+C:\Users\akuchuk\Documents\calgohub\CAlgo.Specification\bin\Debug\CAlgo.Specification.pdb
+C:\Users\akuchuk\Documents\calgohub\CAlgo.Specification\obj\Debug\CAlgo.Specification.csprojResolveAssemblyReference.cache
+C:\Users\akuchuk\Documents\calgohub\CAlgo.Specification\obj\Debug\CAlgo.Specification.dll
+C:\Users\akuchuk\Documents\calgohub\CAlgo.Specification\obj\Debug\CAlgo.Specification.pdb
